@@ -24,4 +24,14 @@ height=5.9
 student=True 
 print(height)
 print(student)
-
+gender="male"
+print(gender)
+name=input("enter your name:")
+age=input("enter your age:")
+height=input("enter your height:")
+print("your name is",name)
+print("your age is",age)
+print("your height is",height)
+print("your name is",name)
+age=25
+if age>=18:print("are elleigable to vote.") 
